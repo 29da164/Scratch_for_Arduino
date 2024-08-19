@@ -15,3 +15,5 @@
   - 歩行者用信号
 - pedestrian_signal_w_sound.sb
   - 歩行者用信号の緑点滅時に音が出るバージョン
+
+# さらに時間が余るようであれば、RYG_signal と pedestrian_signal を別回路で作り、同期動作させる課題に誘導のこと
